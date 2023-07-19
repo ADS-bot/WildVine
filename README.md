@@ -7,7 +7,7 @@
 
   Wildvine is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://ADS-bot.github.io/wildvine/"><strong>➥ Live Demo</strong></a>
+  <a href="https://wild-vine.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,13 +30,13 @@ To run **Wildvine** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/ADS-bot/wildvine.git
+sudo git clone https://github.com/ADS-bot/WildVine.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/ADS-bot/wildvine.git
+git clone https://github.com/ADS-bot/WildvVne.git
 ```
 
 ### Contact
